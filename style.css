@@ -18,7 +18,7 @@
   }
   a:link{ 
     text-decoration: none;
-    color: rgb(53, 8, 8);
+    color: rgb(155, 25, 25);
   }
   .half{
     float: left;
@@ -33,7 +33,9 @@
     display: table;
     clear: both;
   }
-  #footer{
+  footer{
+    padding: 10px;
+    text-align: center;
     border-style: solid;
     border-width: 2px;
     border-color: rgb(53, 8, 8);
